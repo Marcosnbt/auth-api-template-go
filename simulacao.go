@@ -1,0 +1,1 @@
+// simulação de arquivo
