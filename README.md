@@ -2,5 +2,5 @@
 
 Simple JWT authentication template in Go.
 
-Histórico iniciado em abril.
+\# Commit retroativo de abril
 
