@@ -1,2 +1,3 @@
-# auth-api-template-go
-Template de API em Go com Autenticação JWT- projeto piloto
+# Auth API Template (Go)
+
+Simple JWT authentication template in Go.
